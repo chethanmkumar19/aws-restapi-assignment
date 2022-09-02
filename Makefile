@@ -1,4 +1,4 @@
-PYTHON=python3.6
+PYTHON=python3.9
 PACKAGES=pymongo
 
 all: layer-pymongo.zip
